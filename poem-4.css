@@ -1,0 +1,51 @@
+body{
+background-color: black;
+}
+#head{
+    background-color: rgb(124, 49, 228);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+#ul1{
+    text-align: center;
+    list-style: none;
+}
+.lis{
+    display: inline; 
+     margin-left: 80px; 
+     margin-right: 80px;
+   
+}
+.lis a{
+    list-style: none;
+    text-decoration: none; 
+    font-size: 25px; 
+    color: white;
+
+}
+.lis>a:hover{
+color: orange;
+padding: 2px;
+}
+#poem-4{
+    color: brown ;
+    text-align: center;
+    font-size: 50px;
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#poem-4::first-letter{
+color: orange;
+font-size: 100px;
+    
+}
+.para
+{
+    text-align: center;
+    color: orange;
+    font-size: 30px;
+  
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

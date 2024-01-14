@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+#head{
+    background-color: rgb(124, 49, 228);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+#ul1{
+    text-align: center;
+    list-style: none;
+}
+.lis{
+    display: inline; 
+     margin-left: 80px; 
+     margin-right: 80px;
+   
+}
+.lis a{
+    list-style: none;
+    text-decoration: none; 
+    font-size: 25px; 
+    color: white;
+
+}
+.lis>a:hover{
+color: yellow;
+padding: 2px;
+}
+#poem-3{
+    color: violet  ;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#poem-3::first-letter{
+    color: yellow;
+    font-size: 100px;
+}
+.para
+{
+    text-align: center;
+    color: yellow;
+    font-size: 30px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
